@@ -11,3 +11,20 @@ h1 {
     color: blue;
     text-transform: capitalize;
 }
+
+#sideBar {
+    max-width: fit-content;
+    float: left;
+    border: 5px solid black;
+}
+
+#rightSideBar {
+    max-width: fit-content;
+    float: right;
+    border: 5px solid black;
+}
+
+.mainContent {
+    float: left;
+    padding: 5px;
+}
