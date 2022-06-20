@@ -20,7 +20,7 @@ h1 {
 body {
     display: grid;
     grid-template-columns: 200px auto;
-    grid-template-rows: 400px auto 150px;
+    grid-template-rows: 400px auto;
     font-family: sans-serif;
 }
 
