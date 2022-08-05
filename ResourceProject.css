@@ -13,7 +13,6 @@ h1 {
 }
 
 .sideBarBox {
-    border: 5px solid black;
     background-color: #abea56;
 }
 
@@ -49,6 +48,10 @@ body {
     letter-spacing: 6px;
     font-size: 35px;
     position: relative;
+}
+
+li a {
+    margin-right: 8px;
 }
 
 .mainContent {
