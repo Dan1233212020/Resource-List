@@ -2,18 +2,26 @@
     background-image: url("UndocumentedProject.jpg");
     height: 400px;
     background-size: contain;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
 }
 
 h1 {
     text-align: center;
     margin-top: 100px;
-    font-size: 80px;
-    color:#7c008a;
+    font-size: 60px;
+    color:#020002;
     text-transform: capitalize;
 }
 
 .sideBarBox {
-    background-color: #abea56;
+    background-color: #cdd0cd;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
 }
 
 body {
@@ -55,5 +63,5 @@ li a {
 }
 
 .mainContent {
-    background-color: #d8f398;
+    background-color: rgb(223, 220, 220);
 }
